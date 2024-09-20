@@ -1,0 +1,29 @@
+.cards{
+    display: flex;
+    justify-content: center;
+    background-color:  rgb(244, 221, 225);
+    
+    
+}
+
+#cardi{
+    width: 300px;
+    border: none;
+    background-color: rgb(244, 221, 225);
+}
+.all{
+    background-color:  rgb(244, 221, 225);
+  
+   text-align: center;
+   margin-left: 40px;
+    margin-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+#cursive{
+    font-family: "Playwrite CU", cursive;
+}
+
+.card-text{
+    color: grey;
+}
